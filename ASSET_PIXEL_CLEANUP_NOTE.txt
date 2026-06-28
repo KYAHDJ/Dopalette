@@ -1,0 +1,1 @@
+Batch-cleaned selections/base.png assets toward pure black (#000000) outlines and pure white (#FFFFFF) colorable areas, with isolated 1px white pinholes reduced. No Kotlin/app logic changed.

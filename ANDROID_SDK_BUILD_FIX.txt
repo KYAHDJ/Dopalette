@@ -1,0 +1,10 @@
+Build fix added:
+
+This project now includes local.properties pointing Gradle to the default Android Studio SDK path:
+
+sdk.dir=C\:\Users\saria\AppData\Local\Android\Sdk
+
+If your Android SDK is installed somewhere else, open Android Studio > Settings > Languages & Frameworks > Android SDK, copy the Android SDK Location, then replace the sdk.dir path in local.properties.
+
+This fixes the Gradle error:
+SDK location not found. Define a valid SDK location with ANDROID_HOME or local.properties.

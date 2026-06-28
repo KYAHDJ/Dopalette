@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165674953248",
+    "project_id": "dopalette-d09ec",
+    "storage_bucket": "dopalette-d09ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165674953248:android:1a55b53a8c0bd9a407aa45",
+        "android_client_info": {
+          "package_name": "com.dopalette.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165674953248-5v7n94ee11353h7vbrj1csp5tlq3o3c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dopalette.app",
+            "certificate_hash": "4bb2444d135f22e32028a86a5b29d03dac7e7194"
+          }
+        },
+        {
+          "client_id": "165674953248-8j0bthqfc1qdln6jv7e4rmi8s8r1tab1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1XPbSGtEFOhLvNOTW6fBcZ-3WKMKA7E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165674953248-8j0bthqfc1qdln6jv7e4rmi8s8r1tab1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

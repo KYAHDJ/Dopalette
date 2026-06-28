@@ -1,0 +1,13 @@
+DoPalette AdMob real IDs applied.
+
+App ID: ca-app-pub-9372606273046322~5264988865
+Banner: ca-app-pub-9372606273046322/6214686999
+Interstitial: ca-app-pub-9372606273046322/1128478909
+Rewarded: ca-app-pub-9372606273046322/5917771159
+
+Placements:
+- Banner: Me/Profile only, hidden for Premium users.
+- Interstitial: after Done/save flow, skipped for Premium users.
+- Rewarded: Special category 24-hour unlock, skipped for Premium users.
+
+AdMob-Firebase linking is optional and not required for ad serving.
